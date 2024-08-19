@@ -1,6 +1,6 @@
 # Contact Details
 
-**pujan.budhathoki2@uta.edu** | **LinkedIn(https://www.linkedin.com/in/pujan-budhathoki-54a957144/)** | **Github(https://github.com/PujanBudhathoki)** 
+**[Email](pujan.budhathoki2@uta.edu)** | **[LinkedIn](https://www.linkedin.com/in/pujan-budhathoki-54a957144/)** | **[Github](https://github.com/PujanBudhathoki)** 
 
 ---
 
@@ -15,8 +15,7 @@ I am a PhD student at the University of Texas at Arlington. I specialize on the 
 
 ### American Sign Language Recognition using Machine Learning
 **2021**  
-**GitHub:** [Link to the repository]  
-**Live Demo:** [Link to the live project]  
+**GitHub:** [Link](https://github.com/PujanBudhathoki/ASL-RecogSys-main) 
 - **Description:** [Brief description of the project]
 - **Technologies Used:** [List of technologies]
 - **Key Features:**
