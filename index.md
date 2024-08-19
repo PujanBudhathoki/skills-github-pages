@@ -1,21 +1,12 @@
-# 
+# Contact Details
 
-**pujan.budhathoki2@uta.edu** | **[Your LinkedIn Profile]** | **[Your GitHub Profile]** | **[Your Website]**
+**pujan.budhathoki2@uta.edu** | **LinkedIn(https://www.linkedin.com/in/pujan-budhathoki-54a957144/)** | **Github(https://github.com/PujanBudhathoki)** 
 
 ---
 
 ## About Me
 
 I am a PhD student at the University of Texas at Arlington. I specialize on the field of Privacy and Fairness Testing in Machine learning Systems. I have completed my undergraduate Engineering degree in Electronics and Communication Engineering from the Pulchowk Campus, IOE.
-
----
-
-## Skills
-
-- **Programming Languages:** [List of Programming Languages]
-- **Tools & Technologies:** [List of Tools and Technologies]
-- **Frameworks:** [List of Frameworks]
-- **Other Skills:** [List of Other Relevant Skills]
 
 ---
 
@@ -48,19 +39,13 @@ I am a PhD student at the University of Texas at Arlington. I specialize on the 
 
 ## Education
 
-### [Degree] | [Institution Name]
-**[Year of Graduation]**  
-- **Relevant Coursework:** [List of relevant courses or subjects]
-- **Achievements:** [Any awards, honors, or special projects]
+### PhD | Unversity of Texas at Arlington
+**2023-**  
+- **Relevant Coursework:** Machine Learning, Software Testing, Computer Algorithms
+- **Achievements:**
 
 ---
 
-## Certifications
-
-- **[Certification Name]** | [Issuing Organization] | [Month Year]
-- **[Certification Name]** | [Issuing Organization] | [Month Year]
-
----
 
 ## Contact
 
@@ -68,5 +53,5 @@ Feel free to reach out to me via [LinkedIn](Your LinkedIn URL) or [Email](Your E
 
 ---
 
-**[Your Name]**  
-[Your Tagline or Motto]
+**Pujan Budhathoki**  
+Striving for Perfection
