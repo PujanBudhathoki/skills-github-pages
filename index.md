@@ -1,4 +1,4 @@
-# Pujan Budhathoki
+# 
 
 **pujan.budhathoki2@uta.edu** | **[Your LinkedIn Profile]** | **[Your GitHub Profile]** | **[Your Website]**
 
