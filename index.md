@@ -24,12 +24,12 @@ I am a PhD student at the University of Texas at Arlington. I specialize on the 
   - Is able to recognize static signs and dynamic signs
   - Consists of Text to speech generation and Text to sign language generator integrated
 
-### [Project Title]
-**[Month Year]**  
+### Polysomnographic Analysis Band
+**2019**  
 **GitHub:** [Link to the repository]  
 **Live Demo:** [Link to the live project]  
-- **Description:** [Brief description of the project]
-- **Technologies Used:** [List of technologies]
+- **Description:** Fitness Band based on Arduino Nano that continously monitored heartbeat and synchronized the data to Android app which analyzed it to monitor sleep quality
+- **Technologies Used:** Arduino Nano, Python, Matlab
 - **Key Features:**
   - [Feature 1]
   - [Feature 2]
