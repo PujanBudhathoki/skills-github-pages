@@ -36,6 +36,7 @@ I am a PhD student at the University of Texas at Arlington. I specialize on the 
 ## Publications
 ### Thakur, A., Budhathoki, P., Upreti, S., Shrestha, S., & Shakya, S. (2020). Real time sign language recognition and speech generation. Journal of Innovative Image Processing, 2(2), 65-76.
 
+---
 ## Education
 
 ### PhD | Unversity of Texas at Arlington
@@ -44,7 +45,8 @@ I am a PhD student at the University of Texas at Arlington. I specialize on the 
 
 ### B.E. Electronics and Communication Engineering | Pulchowk Campus, IOE
 **2016-2021**
-- **Relevant Coursework:** Machine Learning, Software Development, Electronics Circuits, Electrical Circuits 
+- **Relevant Coursework:** Machine Learning, Software Development, Electronics Circuits, Electrical Circuits
+
 ---
 ## Work Experience
 ### Graduate Teaching Assistant
@@ -52,7 +54,7 @@ I am a PhD student at the University of Texas at Arlington. I specialize on the 
 
 ### Software Engineer
 **2021-2023**
-
+---
 
 ## Contact
 
