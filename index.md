@@ -36,7 +36,7 @@ I am a PhD student at the University of Texas at Arlington. I specialize on the 
   - [Feature 3]
 
 ---
-##Publications
+## Publications
 ### Thakur, Amrita, et al. "Real time sign language recognition and speech generation." Journal of Innovative Image Processing 2.2 (2020): 65-76.
 
 ## Education
