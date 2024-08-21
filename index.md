@@ -25,9 +25,7 @@ I am a PhD student at the University of Texas at Arlington. I specialize on the 
   - Consists of Text to speech generation and Text to sign language generator integrated
 
 ### Polysomnographic Analysis Band
-**2019**  
-**GitHub:** [Link to the repository]  
-**Live Demo:** [Link to the live project]  
+**2019**   
 - **Description:** Fitness Band based on Arduino Nano that continously monitored heartbeat and synchronized the data to Android app which analyzed it to monitor sleep quality
 - **Technologies Used:** Arduino Nano, Python, Matlab
 - **Key Features:**
@@ -48,6 +46,12 @@ I am a PhD student at the University of Texas at Arlington. I specialize on the 
 **2016-2021**
 - **Relevant Coursework:** Machine Learning, Software Development, Electronics Circuits, Electrical Circuits 
 ---
+## Work Experience
+### Graduate Teaching Assistant
+**2023-Present**
+
+### Software Engineer
+**2021-2023**
 
 
 ## Contact
