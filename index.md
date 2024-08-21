@@ -1,4 +1,5 @@
-# Contact Details
+![Pujan Budhathoki](pujanphotolatest.jpg)
+
 
 **[Email](pujan.budhathoki2@uta.edu)** | **[LinkedIn](https://www.linkedin.com/in/pujan-budhathoki-54a957144/)** | **[Github](https://github.com/PujanBudhathoki)** 
 
