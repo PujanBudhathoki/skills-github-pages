@@ -1,7 +1,7 @@
 ![Pujan Budhathoki](pujanphotolatest.jpg)
 
 
-**[Email](pujan.budhathoki2@uta.edu)** | **[LinkedIn](https://www.linkedin.com/in/pujan-budhathoki-54a957144/)** | **[Github](https://github.com/PujanBudhathoki)** 
+**pujan.budhathoki2@uta.edu** | **[LinkedIn](https://www.linkedin.com/in/pujan-budhathoki-54a957144/)** | **[Github](https://github.com/PujanBudhathoki)** 
 
 ---
 
@@ -17,12 +17,12 @@ I am a PhD student at the University of Texas at Arlington. I specialize on the 
 ### American Sign Language Recognition using Machine Learning
 **2021**  
 **GitHub:** [Link](https://github.com/PujanBudhathoki/ASL-RecogSys-main) 
-- **Description:** [Brief description of the project]
-- **Technologies Used:** [List of technologies]
+- **Description:** Using Image Recognition Models and LSTMs to create a system able to facilitate two way communication using American Sign language to Spoken and written english
+- **Technologies Used:** TensorFlow, Python, Deep learning
 - **Key Features:**
-  - [Feature 1]
-  - [Feature 2]
-  - [Feature 3]
+  - Makes use of the Pre-trained VGG-16 Model and LSTM
+  - Is able to recognize static signs and dynamic signs
+  - Consists of Text to speech generation and Text to sign language generator integrated
 
 ### [Project Title]
 **[Month Year]**  
@@ -36,6 +36,8 @@ I am a PhD student at the University of Texas at Arlington. I specialize on the 
   - [Feature 3]
 
 ---
+##Publications
+### Thakur, Amrita, et al. "Real time sign language recognition and speech generation." Journal of Innovative Image Processing 2.2 (2020): 65-76.
 
 ## Education
 
