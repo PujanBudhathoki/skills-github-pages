@@ -31,27 +31,28 @@ I am a PhD student at the University of Texas at Arlington. I specialize on the 
 - **Description:** Fitness Band based on Arduino Nano that continously monitored heartbeat and synchronized the data to Android app which analyzed it to monitor sleep quality
 - **Technologies Used:** Arduino Nano, Python, Matlab
 - **Key Features:**
-  - [Feature 1]
-  - [Feature 2]
-  - [Feature 3]
+  - Measures and sends heartbeat data to smartphone application
+  - Analyzes sleep data from the obtained heartbeat data
 
 ---
 ## Publications
-### Thakur, Amrita, et al. "Real time sign language recognition and speech generation." Journal of Innovative Image Processing 2.2 (2020): 65-76.
+### Thakur, A., Budhathoki, P., Upreti, S., Shrestha, S., & Shakya, S. (2020). Real time sign language recognition and speech generation. Journal of Innovative Image Processing, 2(2), 65-76.
 
 ## Education
 
 ### PhD | Unversity of Texas at Arlington
-**2023-**  
+**2023 Fall**  
 - **Relevant Coursework:** Machine Learning, Software Testing, Computer Algorithms
-- **Achievements:**
 
+### B.E. Electronics and Communication Engineering | Pulchowk Campus, IOE
+**2016-2021**
+- **Relevant Coursework:** Machine Learning, Software Development, Electronics Circuits, Electrical Circuits 
 ---
 
 
 ## Contact
 
-Feel free to reach out to me via [LinkedIn](Your LinkedIn URL) or [Email](Your Email Address) for any inquiries or collaborations.
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/pujan-budhathoki-54a957144/) or [Email](pujan.budhathoki2@uta.edu) for any inquiries or collaborations.
 
 ---
 
