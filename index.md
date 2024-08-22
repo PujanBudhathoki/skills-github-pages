@@ -27,10 +27,25 @@ I am a PhD student at the University of Texas at Arlington. I specialize on the 
 ### Polysomnographic Analysis Band
 **2019**   
 - **Description:** Fitness Band based on Arduino Nano that continously monitored heartbeat and synchronized the data to Android app which analyzed it to monitor sleep quality
-- **Technologies Used:** Arduino Nano, Python, Matlab
+- **Technologies Used:** Arduino Nano, Python, Matlab, MIT App Inventor
 - **Key Features:**
   - Measures and sends heartbeat data to smartphone application
   - Analyzes sleep data from the obtained heartbeat data
+
+### Penalty Kick Simulation
+**2018**   
+- **Description:** 3D Penalty Kick Simulation made using C++ and OpenGL that simulated a playerless penalty kick environment and ball physics
+- **Technologies Used:** C++, OpenGL
+
+### Pop-loon
+**2017**   
+- **Description:** 2D Balloon popping game using mouse as the input device
+- **Technologies Used:** C programming
+
+### Hero-Run
+**2018**   
+- **Description:** 2D side scrolling game made using C++ and SFML
+- **Technologies Used:** C++, SFML
 
 ---
 ## Publications
@@ -52,10 +67,10 @@ I am a PhD student at the University of Texas at Arlington. I specialize on the 
 ## Work Experience
 ### Graduate Teaching Assistant
 **2023-Present**
-
+- **Duties:** Assignments and Paper Grading, Helping professor and students with various courseworks   
 ### Software Engineer
 **2021-2023**
-
+- **Duties:** Embedded Systems software testing and development, Database and Website Management, System Diagnostics testing   
 ---
 
 ## Contact
