@@ -67,10 +67,12 @@ I am a PhD student at the University of Texas at Arlington. I specialize on the 
 ## Work Experience
 ### Graduate Teaching Assistant - University of Texas at Arlington
 **2023-Present**
-- **Duties:** Assignments and Paper Grading, Helping professor and students with various courseworks   
-### Software Engineer - Auzaar Innovations   
-**2021-2023**   
-- **Duties:** Embedded Systems software testing and development, Database and Website Management, System Diagnostics testing    
+- **Duties:** Assignments and Paper Grading, Helping professor and students with various courseworks
+
+### Software Engineer - Auzaar Innovations
+**2021-2023**
+- **Duties:** Embedded Systems software testing and development, Database and Website Management, System Diagnostics testing
+
 ---
 
 ## Contact
