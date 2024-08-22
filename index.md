@@ -68,9 +68,9 @@ I am a PhD student at the University of Texas at Arlington. I specialize on the 
 ### Graduate Teaching Assistant
 **2023-Present**
 - **Duties:** Assignments and Paper Grading, Helping professor and students with various courseworks   
-### Software Engineer
-**2021-2023**
-- **Duties:** Embedded Systems software testing and development, Database and Website Management, System Diagnostics testing   
+### Software Engineer   
+**2021-2023**   
+- **Duties:** Embedded Systems software testing and development, Database and Website Management, System Diagnostics testing    
 ---
 
 ## Contact
